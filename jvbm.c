@@ -24,8 +24,8 @@ int main(){
                 strcpy(vetor[j], aux);
             }
         }
-        for(int i=0;i<criancas;i++){
-            puts(lista[i].nome);
+        for(int i=0;i<quant;i++){
+            puts();
     }
     printf("Se comportaram: %i | Não se comportaram: %i\n", comportados, ncomportados);
 
