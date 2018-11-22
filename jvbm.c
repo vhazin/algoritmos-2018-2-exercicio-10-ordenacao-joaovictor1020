@@ -25,7 +25,7 @@ int main(){
             }
         }
         for(int i=0;i<quant;i++){
-            puts();
+            puts(vetor[i]);
     }
     printf("Se comportaram: %i | Não se comportaram: %i\n", comportados, ncomportados);
 
